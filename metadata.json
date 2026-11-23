@@ -1,0 +1,6 @@
+{
+  "name": "페이스메이커 High",
+  "description": "고1 내신 대비를 위해 요일별 일과, 과목별 소요 시간, 직전 성적 가중치, 20초 시험범위 컨디션 체크, 목표 등급별 확인 문제 및 오답 기반 재계획을 제공하는 맞춤형 AI 공부 플래너",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
